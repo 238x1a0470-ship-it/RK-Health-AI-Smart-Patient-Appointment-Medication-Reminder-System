@@ -1,1 +1,0 @@
-# RK-Health-AI-Smart-Patient-Appointment-Medication-Reminder-System
